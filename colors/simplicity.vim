@@ -51,13 +51,13 @@ hi TODO                ctermfg=190  ctermbg=NONE cterm=NONE       guifg=#d7ff00 
 hi Error               ctermfg=9    ctermbg=NONE cterm=underline  guifg=#ff0000  guibg=NONE     gui=underline
 hi ErrorMsg            ctermfg=9    ctermbg=NONE cterm=underline  guifg=#ff0000  guibg=NONE     gui=underline
 
-hi Directory           ctermfg=199  ctermbg=NONE cterm=NONE       guifg=#ff00af  guibg=NONE     gui=NONE
-hi netrwDir            ctermfg=199  ctermbg=NONE cterm=NONE       guifg=#ff00af  guibg=NONE     gui=NONE
+hi Directory           ctermfg=230  ctermbg=NONE cterm=NONE       guifg=#ffffd7  guibg=NONE     gui=NONE
+hi netrwDir            ctermfg=230  ctermbg=NONE cterm=NONE       guifg=#ffffd7  guibg=NONE     gui=NONE
 
-hi Pmenu               ctermfg=235  ctermbg=236  cterm=NONE       guifg=#303030  guibg=#6c6c6c  gui=NONE
-hi PmenuSbar           ctermfg=235  ctermbg=236  cterm=NONE       guifg=#303030  guibg=#6c6c6c  gui=NONE
-hi PmenuThumb          ctermfg=235  ctermbg=236  cterm=NONE       guifg=#303030  guibg=#6c6c6c  gui=NONE
-hi PmenuSel            ctermfg=51   ctermbg=236  cterm=NONE       guifg=#00ffff  guibg=#6c6c6c  gui=NONE
+hi Pmenu               ctermfg=235  ctermbg=234  cterm=NONE       guifg=#303030  guibg=#1c1c1c  gui=NONE
+hi PmenuSbar           ctermfg=235  ctermbg=234  cterm=NONE       guifg=#303030  guibg=#1c1c1c  gui=NONE
+hi PmenuThumb          ctermfg=235  ctermbg=234  cterm=NONE       guifg=#303030  guibg=#1c1c1c  gui=NONE
+hi PmenuSel            ctermfg=230  ctermbg=234  cterm=NONE       guifg=#ffffd7  guibg=#1c1c1c  gui=NONE
 
 hi Folded              ctermfg=231  ctermbg=239  cterm=bold       guifg=#ffffff  guibg=#4e4e4e  gui=bold
 hi FoldColumn          ctermfg=231  ctermbg=239  cterm=bold       guifg=#ffffff  guibg=#4e4e4e  gui=bold
