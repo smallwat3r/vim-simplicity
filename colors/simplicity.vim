@@ -57,7 +57,7 @@ hi netrwDir            ctermfg=199  ctermbg=NONE cterm=NONE       guifg=#ff00af 
 hi Pmenu               ctermfg=235  ctermbg=236  cterm=NONE       guifg=#303030  guibg=#6c6c6c  gui=NONE
 hi PmenuSbar           ctermfg=235  ctermbg=236  cterm=NONE       guifg=#303030  guibg=#6c6c6c  gui=NONE
 hi PmenuThumb          ctermfg=235  ctermbg=236  cterm=NONE       guifg=#303030  guibg=#6c6c6c  gui=NONE
-hi PmenuSel            ctermfg=51   ctermbg=236  cterm=bold       guifg=#00ffff  guibg=#6c6c6c  gui=bold
+hi PmenuSel            ctermfg=51   ctermbg=236  cterm=NONE       guifg=#00ffff  guibg=#6c6c6c  gui=NONE
 
 hi Folded              ctermfg=231  ctermbg=239  cterm=bold       guifg=#ffffff  guibg=#4e4e4e  gui=bold
 hi FoldColumn          ctermfg=231  ctermbg=239  cterm=bold       guifg=#ffffff  guibg=#4e4e4e  gui=bold
