@@ -54,9 +54,9 @@ hi ErrorMsg            ctermfg=9    ctermbg=NONE cterm=underline  guifg=#ff0000 
 hi Directory           ctermfg=230  ctermbg=NONE cterm=NONE       guifg=#ffffd7  guibg=NONE     gui=NONE
 hi netrwDir            ctermfg=230  ctermbg=NONE cterm=NONE       guifg=#ffffd7  guibg=NONE     gui=NONE
 
-hi Pmenu               ctermfg=233  ctermbg=237  cterm=NONE       guifg=#121212  guibg=#3a3a3a  gui=NONE
-hi PmenuSbar           ctermfg=233  ctermbg=237  cterm=NONE       guifg=#121212  guibg=#3a3a3a  gui=NONE
-hi PmenuThumb          ctermfg=233  ctermbg=237  cterm=NONE       guifg=#121212  guibg=#3a3a3a  gui=NONE
+hi Pmenu               ctermfg=241  ctermbg=237  cterm=NONE       guifg=#626262  guibg=#3a3a3a  gui=NONE
+hi PmenuSbar           ctermfg=241  ctermbg=237  cterm=NONE       guifg=#626262  guibg=#3a3a3a  gui=NONE
+hi PmenuThumb          ctermfg=241  ctermbg=237  cterm=NONE       guifg=#626262  guibg=#3a3a3a  gui=NONE
 hi PmenuSel            ctermfg=230  ctermbg=237  cterm=NONE       guifg=#ffffd7  guibg=#3a3a3a  gui=NONE
 
 hi Folded              ctermfg=231  ctermbg=239  cterm=bold       guifg=#ffffff  guibg=#4e4e4e  gui=bold
