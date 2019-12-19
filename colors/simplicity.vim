@@ -17,7 +17,6 @@ set background=dark
 "
 " Colors
 "
-
 hi Normal              ctermfg=231  ctermbg=235  cterm=NONE       guifg=#ffffff  guibg=#262626  gui=NONE
 
 hi Comment             ctermfg=240  ctermbg=NONE cterm=NONE       guifg=#585858  guibg=NONE     gui=NONE
@@ -55,10 +54,10 @@ hi ErrorMsg            ctermfg=9    ctermbg=NONE cterm=underline  guifg=#ff0000 
 hi Directory           ctermfg=230  ctermbg=NONE cterm=NONE       guifg=#ffffd7  guibg=NONE     gui=NONE
 hi netrwDir            ctermfg=230  ctermbg=NONE cterm=NONE       guifg=#ffffd7  guibg=NONE     gui=NONE
 
-hi Pmenu               ctermfg=238  ctermbg=236  cterm=NONE       guifg=#444444  guibg=#262626  gui=NONE
-hi PmenuSbar           ctermfg=238  ctermbg=236  cterm=NONE       guifg=#444444  guibg=#262626  gui=NONE
-hi PmenuThumb          ctermfg=238  ctermbg=236  cterm=NONE       guifg=#444444  guibg=#262626  gui=NONE
-hi PmenuSel            ctermfg=230  ctermbg=236  cterm=NONE       guifg=#ffffd7  guibg=#262626  gui=NONE
+hi Pmenu               ctermfg=238  ctermbg=237  cterm=NONE       guifg=#444444  guibg=#3a3a3a  gui=NONE
+hi PmenuSbar           ctermfg=238  ctermbg=237  cterm=NONE       guifg=#444444  guibg=#3a3a3a  gui=NONE
+hi PmenuThumb          ctermfg=238  ctermbg=237  cterm=NONE       guifg=#444444  guibg=#3a3a3a  gui=NONE
+hi PmenuSel            ctermfg=230  ctermbg=237  cterm=NONE       guifg=#ffffd7  guibg=#3a3a3a  gui=NONE
 
 hi Folded              ctermfg=231  ctermbg=239  cterm=bold       guifg=#ffffff  guibg=#4e4e4e  gui=bold
 hi FoldColumn          ctermfg=231  ctermbg=239  cterm=bold       guifg=#ffffff  guibg=#4e4e4e  gui=bold
