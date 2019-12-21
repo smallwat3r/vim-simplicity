@@ -44,8 +44,8 @@ hi DiffDelete          ctermfg=254  ctermbg=197  cterm=NONE       guifg=#e4e4e4 
 hi VertSplit           ctermfg=240  ctermbg=NONE cterm=NONE       guifg=#585858  guibg=NONE     gui=NONE
 hi SignColumn          ctermfg=235  ctermbg=NONE cterm=NONE       guifg=#262626  guibg=NONE     gui=NONE
 
-hi Search              ctermfg=237  ctermbg=230  cterm=NONE       guifg=#3a3a3a  guibg=#ffffd7  gui=NONE
-hi IncSearch           ctermfg=19   ctermbg=230  cterm=bold       guifg=#0000af  guibg=#ffffd7  gui=bold
+hi Search              ctermfg=237  ctermbg=225  cterm=NONE       guifg=#3a3a3a  guibg=#ffd7ff  gui=NONE
+hi IncSearch           ctermfg=198  ctermbg=225  cterm=bold       guifg=#ff0087  guibg=#ffd7ff  gui=bold
 
 hi TODO                ctermfg=190  ctermbg=NONE cterm=NONE       guifg=#d7ff00  guibg=NONE     gui=NONE
 hi Error               ctermfg=9    ctermbg=NONE cterm=underline  guifg=#ff0000  guibg=NONE     gui=underline
