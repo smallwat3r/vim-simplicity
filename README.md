@@ -8,4 +8,8 @@ I'm now using this as my default colorscheme.
 
 Colors remain on comments, diffs, directories, searchs, cursor, spelling, errors.  
 
-![screenshot1](https://github.com/smallwat3r/vim-simplicity/blob/master/_screens/ss.png)  
+simplicity.vim  
+![simplicity](https://i.imgur.com/8BOzGP0.png)
+
+simplicity-blue.vim  
+![simplicity-blue](https://i.imgur.com/dhO73Nm.png)
