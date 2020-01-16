@@ -11,7 +11,7 @@ Colors remain on comments, diffs, directories, searchs, cursor, spelling, errors
 Install using a plugin manager: 
 ```sh
 Plug 'smallwat3r/vim-simplicity'  # Vim Plug
-Plugin 'lurst/austere.vim'        # Vundle
+Plugin 'smallwat3r/vim-simplicity.vim'        # Vundle
 cd ~/.vim/bundle && git clone https://github.com/smallwat3r/vim-simplicity  # Pathogen
 ```
 
