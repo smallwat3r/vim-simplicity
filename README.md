@@ -8,6 +8,13 @@ I'm now using this as my default colorscheme.
 
 Colors remain on comments, diffs, directories, searchs, cursor, spelling, errors.  
 
+Install using a plugin manager: 
+```sh
+Plug 'smallwat3r/vim-simplicity'   # Vim Plug
+Plugin 'smallwat3r/vim-simplicity' # Vundle
+cd ~/.vim/bundle && git clone https://github.com/smallwat3r/vim-simplicity  # Pathogen
+```
+
 simplicity.vim  
 ![simplicity](https://i.imgur.com/8BOzGP0.png)
 
