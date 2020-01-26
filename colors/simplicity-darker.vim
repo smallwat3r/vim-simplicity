@@ -63,7 +63,7 @@ hi Folded              ctermfg=231  ctermbg=239  cterm=bold       guifg=#ffffff 
 hi FoldColumn          ctermfg=231  ctermbg=239  cterm=bold       guifg=#ffffff  guibg=#4e4e4e  gui=bold
 
 hi SpellBad            ctermfg=9    ctermbg=NONE cterm=underline  guifg=#ff0000  guibg=NONE     gui=underline
-hi SpellCap            ctermfg=31   ctermbg=NONE cterm=underline  guifg=#0087af  guibg=NONE     gui=underline
+hi SpellCap            ctermfg=50   ctermbg=NONE cterm=underline  guifg=#00ffd7  guibg=NONE     gui=underline
 hi SpellRare           ctermfg=128  ctermbg=NONE cterm=underline  guifg=#af00d7  guibg=NONE     gui=underline
 hi SpellLocal          ctermfg=123  ctermbg=NONE cterm=underline  guifg=#87ffff  guibg=NONE     gui=underline
 
